@@ -12,6 +12,6 @@ A minimal Java console project is available in:
 From `/tmp/workspace/Bobbsskuyy/binus-assigment`:
 
 ```bash
-javac java-console/src/Main.java
+javac personal-assignment-1/src/Main.java
 java -cp java-console/src Main
 ```
